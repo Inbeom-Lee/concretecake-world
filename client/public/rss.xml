@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Concrete Cake]]></title>
+        <description><![CDATA[Concrete Cake]]></description>
+        <link>https://concretecake.se</link>
+        <image>
+            <url>https://concretecake.se/logo.png</url>
+            <title>Concrete Cake</title>
+            <link>https://concretecake.se</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 29 Jun 2024 04:16:21 GMT</lastBuildDate>
+        <atom:link href="https://concretecake.se/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 29 Jun 2024 04:16:21 GMT</pubDate>
+        <copyright><![CDATA[2024 ConcreteCake]]></copyright>
+        <language><![CDATA[en]]></language>
+        <managingEditor><![CDATA[Dev ConcreteCake]]></managingEditor>
+        <webMaster><![CDATA[Dev ConcreteCake]]></webMaster>
+        <ttl>60</ttl>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskinproduct=self.webpackChunkskinproduct||[]).push([[696],{9272:(t,e,n)=>{function u(t){return({dispatch:e,getState:n})=>u=>c=>"function"==typeof c?c(e,n,t):u(c)}n.d(e,{g:()=>s,y:()=>c});var c=u(),s=u}}]);

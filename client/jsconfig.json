@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "Firebase/*": ["./src/firebase/*"],
+      "Firebase": ["./src/firebase/index.js"],
+      "Contexts/*": ["./src/contexts/*"],
+      "Contexts": ["./src/contexts/index.js"],
+      "Components/*": ["./src/components/*"],
+      "Components": ["./src/components/index.js"],
+      "Constants/*": ["./src/constants/*"],
+      "Constants": ["./src/constants/index.js"],
+      "Features/*": ["./src/features/*"],
+      "Features": ["./src/features/index.js"],
+      "Helpers/*": ["src/helpers/*"],
+      "Helpers": ["src/helpers/index.js"],
+      "Theme/*": ["./src/theme/*"],
+      "Theme": ["./src/theme/index.js"],
+      "Hooks/*": ["./src/hooks/*"],
+      "Hooks": ["./src/hooks/index.js"],
+      "Pages/*": ["./src/pages/*"],
+      "Pages": ["./src/pages/index.js"],
+      "Assets/*": ["./src/assets/*"],
+      "Assets": ["./src/assets/index.js"],
+      "Utils/*": ["./src/utils/*"],
+      "Utils": ["./src/utils/index.js"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "public"]
+}
